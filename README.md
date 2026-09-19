@@ -2,7 +2,7 @@
 
 > **A lightweight, real-time service health and latency monitoring dashboard built with React, Vite, and Tailwind CSS.**
 
-![PulseBoard Deployed link](https://<your-project-id>.web.app) *( live deployed link on firebase)*
+![PulseBoard Deployed link](https://pulseboard-1.web.app) *( live deployed link on firebase)*
 
 [![Built with React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Vite Powered](https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
